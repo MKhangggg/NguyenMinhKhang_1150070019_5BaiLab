@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <TextView
+      android:id="@+id/tvTitle"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/app_namee"
+      android:gravity="center"
+      android:textSize="22sp"
+      android:textStyle="bold"/>
+
+  <TextView
+      android:id="@+id/tvAuthor"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/author"
+      android:gravity="center"
+      android:paddingTop="4dp"/>
+
+  <TextView
+      android:id="@+id/tvComputer"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/computer"
+      android:gravity="center"
+      android:paddingBottom="12dp"/>
+
+  <TableLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:stretchColumns="1">
+    <TableRow android:padding="6dp">
+      <TextView
+          android:text="@string/from_label"
+          android:textStyle="bold"/>
+      <Spinner
+          android:id="@+id/spFrom"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"/>
+    </TableRow>
+    <TableRow android:padding="6dp">
+      <TextView
+          android:text="@string/to_label"
+          android:textStyle="bold"/>
+      <Spinner
+          android:id="@+id/spTo"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"/>
+    </TableRow>
+
+    <TableRow android:padding="6dp">
+      <TextView
+          android:text="@string/textbox_hintt"/>
+
+      <EditText
+          android:id="@+id/edtValue"
+          android:layout_width="match_parent"
+          android:hint="@string/textbox_hintt"
+          android:inputType="numberDecimal" />
+    </TableRow>
+  </TableLayout>
+
+  <Button
+      android:id="@+id/btnConvert"
+      android:text="@string/btn_convertt"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="14dp"/>
+
+  <TextView
+      android:id="@+id/tvResultLabel"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="16dp"
+      android:text="@string/result_labell"
+      android:textStyle="bold" />
+
+  <TextView
+      android:id="@+id/tvResult"
+      android:textSize="18sp"
+      android:textColor="#E91E63"
+      android:textStyle="bold"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"/>
+
+  <Button
+      android:id="@+id/btnPrePage"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Quay lại"
+      android:layout_marginTop="20dp"
+      android:backgroundTint="#3F51B5"
+      android:textColor="#FFFFFF" />
+
+</LinearLayout>

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lab13and14\\Lab13and14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B68E36E-C971-4DE0-8FAF-5F9965F17BB9}|Lab13and14\\Lab13and14.csproj|d:\\lab13and14\\lab13and14\\lab13and14\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B68E36E-C971-4DE0-8FAF-5F9965F17BB9}|Lab13and14\\Lab13and14.csproj|solutionrelative:lab13and14\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B68E36E-C971-4DE0-8FAF-5F9965F17BB9}|Lab13and14\\Lab13and14.csproj|d:\\lab13and14\\lab13and14\\lab13and14\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B68E36E-C971-4DE0-8FAF-5F9965F17BB9}|Lab13and14\\Lab13and14.csproj|solutionrelative:lab13and14\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B68E36E-C971-4DE0-8FAF-5F9965F17BB9}|Lab13and14\\Lab13and14.csproj|d:\\lab13and14\\lab13and14\\lab13and14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B68E36E-C971-4DE0-8FAF-5F9965F17BB9}|Lab13and14\\Lab13and14.csproj|solutionrelative:lab13and14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B68E36E-C971-4DE0-8FAF-5F9965F17BB9}|Lab13and14\\Lab13and14.csproj|d:\\lab13and14\\lab13and14\\lab13and14\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B68E36E-C971-4DE0-8FAF-5F9965F17BB9}|Lab13and14\\Lab13and14.csproj|solutionrelative:lab13and14\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 663,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NguoiDungController.cs",
+              "DocumentMoniker": "D:\\Lab13and14\\Lab13and14\\Lab13and14\\Controllers\\NguoiDungController.cs",
+              "RelativeDocumentMoniker": "Lab13and14\\Controllers\\NguoiDungController.cs",
+              "ToolTip": "D:\\Lab13and14\\Lab13and14\\Lab13and14\\Controllers\\NguoiDungController.cs",
+              "RelativeToolTip": "Lab13and14\\Controllers\\NguoiDungController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAqwHoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T09:48:13.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Lab13and14\\Lab13and14\\Lab13and14\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab13and14\\appsettings.json",
+              "ToolTip": "D:\\Lab13and14\\Lab13and14\\Lab13and14\\appsettings.json",
+              "RelativeToolTip": "Lab13and14\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T09:47:27.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lab13and14\\Lab13and14\\Lab13and14\\Program.cs",
+              "RelativeDocumentMoniker": "Lab13and14\\Program.cs",
+              "ToolTip": "D:\\Lab13and14\\Lab13and14\\Lab13and14\\Program.cs",
+              "RelativeToolTip": "Lab13and14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:08:47.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Lab13and14\\Lab13and14\\Lab13and14\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Lab13and14\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Lab13and14\\Lab13and14\\Lab13and14\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Lab13and14\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T07:21:45.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 171,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Chương trình đổi tiền</string>
+    <string name="author">Nguyễn Minh Khang</string>
+    <string name="computer">Máy 38</string>
+
+    <string name="textbox_hint">Nhập số tiền</string>
+    <string name="from_label">Từ</string>
+    <string name="to_label">Sang</string>
+    <string name="btn_convert">Đổi tiền</string>
+    <string name="result_label">Kết quả:</string>
+
+    <string name="usd_name">Đô la Mỹ</string>
+    <string name="eur_name">Đồng Euro</string>
+    <string name="gbp_name">Bảng Anh</string>
+    <string name="aud_name">Đô la Úc</string>
+    <string name="cad_name">Đô la Canada</string>
+    <string name="zar_name">Rand Nam Phi</string>
+    <string name="nzd_name">Đô la New Zealand</string>
+    <string name="inr_name">Rupee Ấn Độ</string>
+    <string name="jpy_name">Yên Nhật</string>
+    <string name="vnd_name">Việt Nam Đồng</string>
+
+    <string name="usd_unit">USD</string>
+    <string name="eur_unit">EUR</string>
+    <string name="gbp_unit">GBP</string>
+    <string name="inr_unit">INR</string>
+    <string name="aud_unit">AUD</string>
+    <string name="cad_unit">CAD</string>
+    <string name="zar_unit">ZAR</string>
+    <string name="nzd_unit">NZD</string>
+    <string name="jpy_unit">JPY</string>
+    <string name="vnd_unit">VNĐ</string>
+
+    <string name="error_empty_amount">Vui lòng nhập số tiền</string>
+    <string name="error_invalid_amount">Số tiền không hợp lệ</string>
+
+    <string name="app_namee">Chương trình đổi độ dài</string>
+    <string name="textbox_hintt">Nhập độ dài</string>
+    <string name="from_labell">Từ</string>
+    <string name="to_labell">Sang</string>
+    <string name="btn_convertt">Đổi đơn vị</string>
+    <string name="result_labell">Kết quả:</string>
+
+    <string name="mm_name">Milimét (mm)</string>
+    <string name="cm_name">Centi mét (cm)</string>
+    <string name="dm_name">Deci mét (dm)</string>
+    <string name="m_name">Mét (m)</string>
+    <string name="km_name">Kilomét (km)</string>
+
+    <string name="mm_unit">mm</string>
+    <string name="cm_unit">cm</string>
+    <string name="dm_unit">dm</string>
+    <string name="m_unit">m</string>
+    <string name="km_unit">km</string>
+
+    <string name="error_empty">Vui lòng nhập độ dài</string>
+    <string name="error_invalid">Giá trị không hợp lệ</string>
+</resources>
